@@ -8,10 +8,10 @@ Based on manual_shading branch https://github.com/borna-x86/lab4_irg, a solution
 Depends on freeglut and GLM, and can be built with Visual Studio 2017/2019 Enterprise.
 
 
-#### Running
+### Running
 
 A .obj filename can be specified as a commandline argument, otherwise teddy.obj is rendered.
 Once the object is rendered use 'l', 'r' keypresses to rotate, 'g' for smooth shading & 'k' for flat shading.
 
-#### "Important" features
+### "Important" features
 Manual definition of frustum & look_at matrices, light intensity computations, .obj file format parser.
